@@ -16,7 +16,7 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
-- JavaScript (Vanilla)
+- JavaScript
 - [Font Awesome](https://fontawesome.com/) for icons
 - [Formspree](https://formspree.io/) for contact form handling
 
